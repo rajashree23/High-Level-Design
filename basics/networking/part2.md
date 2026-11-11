@@ -1,4 +1,4 @@
-# 10. TCP Layer
+# 10. Transport Layer
 https://www.hellointerview.com/learn/system-design/core-concepts/networking-essentials#transport-layer-protocols
 
 ```text
